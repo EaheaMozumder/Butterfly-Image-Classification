@@ -1,1 +1,9 @@
 
+## Model File (.h5)
+
+The trained deep learning model file is too large to be uploaded directly to GitHub.  
+Therefore, it has been stored in Google Drive.
+
+👉 Download Link: [Click here](https://drive.google.com/file/d/1glHx9GnIU-vvMWqgejv4wX1Wh_IHQuB5/view?usp=drive_link)
+
+After downloading, place the file inside the `butterfly-app/` directory before running the project.
