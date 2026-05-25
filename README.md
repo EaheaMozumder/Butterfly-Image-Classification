@@ -47,8 +47,7 @@ butterfly-app/
 │
 ├── templates/
 │   └── index.html          # Frontend UI
-│
-└── notebook.ipynb          # Model training notebook
+
 ```
 
 ---
