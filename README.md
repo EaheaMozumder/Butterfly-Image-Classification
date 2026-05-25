@@ -75,6 +75,8 @@ The CNN model consists of:
 3. Then open in browser
 
 ---
+![Home Page](img1.png)
+---
 
 ## 📸 How It Works
 
@@ -84,14 +86,18 @@ The CNN model consists of:
 4. Result + confidence score is displayed
 
 ---
+![Predicton Result](img3.jpeg)
+---
 
 ## 📊 Example Output
 
 ```
 Predicted Class: Monarch Butterfly
-Confidence: 96.73%
+Confidence: 99.30%
 ```
 
+---
+![Monarch Butterfly](img2.jpeg)
 ---
 
 ## 🧪 Model Performance
