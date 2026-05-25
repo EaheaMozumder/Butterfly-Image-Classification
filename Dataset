@@ -1,0 +1,7 @@
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+👉 Dataset Link: [Click here](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=Training_set.csv)
+
+Download the dataset and place it inside the `dataset/` directory before running the project.
