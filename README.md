@@ -121,7 +121,7 @@ matplotlib
 
 ## 👨‍💻 Author
 
-**Eahea Mozumder**
+**<a href="https://www.linkedin.com/in/md-eahea-mozumder/">Eahea Mozumder</a>**
 💡 Passionate about AI, Machine Learning & Web Development
 
 ---
