@@ -38,7 +38,7 @@ The trained model is deployed using a **Flask web application** with a modern UI
 butterfly-app/
 │
 ├── app.py                  # Flask backend
-├── butterfly_model.h5      # Trained CNN model
+├── butterfly_model.h5      # Trained CNN model (Download from Google Drive)
 ├── class_names.json        # Class labels
 ├── requirements.txt
 │
@@ -71,44 +71,9 @@ The CNN model consists of:
 
 ## 📦 Installation
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/EaheaMozumder/Butterfly-Image-Classification.git
-cd butterfly-classification
-```
-
----
-
-### 2️⃣ Create virtual environment (optional)
-
-```bash
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-```
-
----
-
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Run the Project
-
-```bash
-python app.py
-```
-
-Then open in browser:
-
-```
-http://127.0.0.1:5000
-```
+1. Download the repository
+2. Run the Project
+3. Then open in browser
 
 ---
 
@@ -127,17 +92,6 @@ http://127.0.0.1:5000
 Predicted Class: Monarch Butterfly
 Confidence: 96.73%
 ```
-
----
-
-## 🔥 Future Improvements
-
-* 🌟 Transfer Learning (MobileNetV2 / EfficientNet)
-* 📱 Mobile-friendly PWA version
-* 📊 Confusion Matrix dashboard
-* ⚡ REST API for external apps
-* ☁️ Deployment on Render / Railway / AWS
-* 🧠 Top-3 predictions display
 
 ---
 
