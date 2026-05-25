@@ -24,7 +24,7 @@ def preprocess_image(image_path):
 
     img = Image.open(image_path).convert("RGB")
 
-    img = img.resize((224, 224))   # MUST match training
+    img = img.resize((150, 150))   # MUST match training
 
     img_array = np.array(img)
 
